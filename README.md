@@ -17,5 +17,4 @@ o Todos los pedidos
 • Muestra por consola todos los productos de la base de datos que tengan un precio
 inferior a 600€
 Inserta en la tabla productos_fav aquellos productos que tengan un valor superior a
-1000€Puedes basarte en la interfaz de calculadoras de Android/IOS , etc, pudiendo
-personalizarla tanto como queráis
+1000€
